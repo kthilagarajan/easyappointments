@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
     version: 1.0.0
     title: 'easyappointments-api'
-host: demo.easyappointments.org
+host: 35.231.254.227/easyappointments
 basePath: /index.php/api/v1/
 tags:
     -   name: admins
